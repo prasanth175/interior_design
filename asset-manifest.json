@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/interior_design/static/css/main.83f895dc.css",
+    "main.js": "/interior_design/static/js/main.ff0f6d94.js",
+    "static/media/home-corousel-1.jpg": "/interior_design/static/media/home-corousel-1.bb081e613312f8f01c22.jpg",
+    "static/media/home-carousel-2.jpg": "/interior_design/static/media/home-carousel-2.b837e96532b18bc0c6e6.jpg",
+    "static/media/bed.jpg": "/interior_design/static/media/bed.a3f8e70350dd29058805.jpg",
+    "static/media/tv.jpg": "/interior_design/static/media/tv.0825fa1cc70d7836129c.jpg",
+    "static/media/cupboard.jpg": "/interior_design/static/media/cupboard.3197ae538f15423313b5.jpg",
+    "static/media/hall.jpg": "/interior_design/static/media/hall.c67869950b5a472679af.jpg",
+    "static/media/home-carousel-4.jpg": "/interior_design/static/media/home-carousel-4.db002c6f4d7eb50d78b9.jpg",
+    "static/media/kitchen.jpg": "/interior_design/static/media/kitchen.e47f391c7d31b80da8aa.jpg",
+    "static/media/ceiling.jpg": "/interior_design/static/media/ceiling.4189b12ec60e07ca6b60.jpg",
+    "static/media/aboutus-img.jpg": "/interior_design/static/media/aboutus-img.4077024b1ab27b9629ae.jpg",
+    "static/media/contact-bg.jpg": "/interior_design/static/media/contact-bg.ec34bf98d4c130a19d6a.jpg",
+    "static/media/home-carousel-3.jpeg": "/interior_design/static/media/home-carousel-3.14e8bf9c44b0ea6becb7.jpeg",
+    "index.html": "/interior_design/index.html",
+    "main.83f895dc.css.map": "/interior_design/static/css/main.83f895dc.css.map",
+    "main.ff0f6d94.js.map": "/interior_design/static/js/main.ff0f6d94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f895dc.css",
+    "static/js/main.ff0f6d94.js"
+  ]
+}
