@@ -1,0 +1,47 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* border-bottom: 1px solid rgb(143, 143, 143); */
+    height: 70px;
+    /* background-color: rgba(255, 255, 255, 0.837); */
+    /* box-shadow: 4px 8px 16px 0px rgb(225, 241, 238); */
+    position: fixed;
+    z-index: 999;
+    width: 100vw;
+    /* background-image: linear-gradient(rgba(118, 118, 118, 0.6),rgba(114, 114, 114, 0.6), rgb(117, 117, 117)); */
+    background-color: white;
+
+
+    border-bottom: 1px solid rgb(187, 184, 184);
+}
+
+.nav-heading{
+    /* color: rgb(91, 137, 167); */
+    font-size: 30px;
+    margin-left: 50px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    color: grey;
+    /* background: linear-gradient(to right, #219cf3,
+                    #b8b7c7, #9bfdf6, #b9f5e5); */
+    /* -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text; */
+}
+
+.nav-list{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    justify-content: space-around;
+}
+
+.nav-link{
+    text-decoration: none;
+}
+
+.nav-item{
+    color: grey;
+    font-family: 'Montserrat';
+    font-size: 16px;
+}
